@@ -127,16 +127,3 @@ Hyprland
 Do whatever you want with it.
 
 Happy tiling 🚀
-
-```
-
----
-
-If you want, I can:
-- Add **screenshots section placeholders**
-- Write **per-WM config explanations**
-- Add a **one-liner install command**
-- Adjust tone (more minimal / more flashy)
-
-Just tell me.
-```
